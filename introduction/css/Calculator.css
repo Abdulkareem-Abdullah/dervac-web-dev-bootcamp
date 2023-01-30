@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+    height: 100vh;
+}
+div{
+    margin: 0 auto;
+    width: 300px;
+}
+h1{
+    text-align: center;
+}
+tr{
+    text-align: center;
+}
+.space{
+    text-align: right;
+}
+td{
+    background-color: rgb(101, 226, 43);
+    width: 2rem;
+}
+table{
+    font-size: 2.4rem;
+    font-weight: 900;
+    border: 1px solid white;
+    background-color: cadetblue;
+    color: darkorange;
+}
+.functions{
+    background-color: blue;
+}
+.operations{
+    background-color: darkgray;
+}
+#workspace{
+    background-color: white;
+    border-radius: 0%;
+    height: 5.5rem;
+}
+.calc button{
+    color: rgb(2, 1, 1);
+    font-weight: 900;
+}
+div input{
+    margin-bottom: 7px;
+    width: 259px;
+    height: 70px;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+button{
+    margin: 2px;
+    padding: 15px;
+    width: 60px;
+    border: none;
+    border-radius: 7px;
+}
+.btn{
+    background-color: aqua;
+}
+.operations{
+    background-color: beige;
+}

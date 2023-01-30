@@ -1,0 +1,13 @@
+.dervac-p{
+    display: flex;
+    justify-content: space-between;
+}
+.dervac-b ul{
+    display: flex;
+}
+a{
+    margin-right: 2em;
+}
+.dervac-b ul li{
+    list-style-type: none;
+}

@@ -1,0 +1,11 @@
+body{
+    font-family: cursive;
+    background-color: cornsilk;
+}
+input{
+    padding: 1em;
+}
+div{
+    margin: 0 auto;
+    width: 300px;
+}

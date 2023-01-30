@@ -1,0 +1,29 @@
+/* aligning text  horizontally and vertically */
+tr{
+    height: 40px;
+}
+td {
+    vertical-align: top;
+}
+a{
+    text-decoration: none;
+}
+button{
+    background-color: blue;
+}
+p{
+    text-shadow: 0px 0px 1px blue;
+    /* 0px for X axis
+       0px for Y axis
+        1Px for Blur radius
+        Blue for the color of the shadow */
+    word-spacing: 2px;
+    letter-spacing: 2px;
+    white-space: pre;
+}
+.parag{
+    white-space: pre-wrap;
+}
+.para{
+    white-space: pre-line;
+}
